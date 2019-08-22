@@ -1,0 +1,24 @@
+{
+  "name": "codegig_html",
+  "version": "1.0.0",
+  "description": "simple app for coders",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Chris",
+    "Pint"
+  ],
+  "author": "Chris Pint",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.15.2"
+  }
+}
