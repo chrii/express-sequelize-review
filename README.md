@@ -4,7 +4,8 @@ Author and creator of most of the code is from the Youtube Channel Traversy Medi
 https://www.youtube.com/user/TechGuyWeb/featured
 
 The Course:
-Build a Node.js App With Sequelize [1] - Connection & Model
+
+Build a Node.js App With Sequelize - Connection & Model
 Part 1
 https://www.youtube.com/watch?v=bOHysWYMZM0
 Part 2
